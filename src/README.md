@@ -1,6 +1,6 @@
 # gatsby-plugin-vwo-smartcode
 
-Plugin to inject [VWO](https://vwo.com) SmartCode to your Gatsby website. 
+Plugin to inject [VWO](https://vwo.com) SmartCode to your Gatsby website.
 
 ## Install
 
